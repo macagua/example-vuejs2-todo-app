@@ -53,7 +53,11 @@ export default {
       isEditing: false
     }
   },
+  // Todo component
   methods: {
+    completeTodo (todo) {
+      this.$emit('complete-todo', todo)
+    },
     deleteTodo (todo) {
       this.$emit('delete-todo', todo)
     },
