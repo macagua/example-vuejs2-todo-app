@@ -1,6 +1,6 @@
 # todo-app
 
-> To-Do App with Vue.js 2
+> A To-Do App with Vue.js 2 following the [Build a To-Do App with Vue.js 2](https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2) tutorial.
 
 ## Build Setup
 
