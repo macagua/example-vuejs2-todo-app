@@ -19,3 +19,6 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+# Reference
+- [Build a To-Do App with Vue.js 2](https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2).
